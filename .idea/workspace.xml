@@ -6,14 +6,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/InnerClassesEx/Spider.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/InnerClassesEx/Web$Venom.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/InnerClassesEx/Web.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InnerClassesEx.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DrEvil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Spider.java" />
     </list>
     <ignored path="InnerClassesEx.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -593,12 +587,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470476228443</updated>
-      <workItem from="1470476230261" duration="1962000" />
+      <workItem from="1470476230261" duration="2004000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1470478353363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1470478353363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1962000" />
+    <option name="totallyTimeSpent" value="2004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="154" y="23" width="1071" height="833" extended-state="0" />
@@ -633,6 +635,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
